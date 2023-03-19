@@ -1,6 +1,6 @@
 {
   "name": "utools-vite-vue",
-  "private": true,
+  "private": false,
   "author": "lostsunset<2259334682@qq.com>",
   "version": "0.0.0",
   "type": "module",
