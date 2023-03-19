@@ -1,0 +1,38 @@
+{
+	"main": "dist/index.html",
+	"preload": "preload.js",
+	"logo": "public/logo.png",
+	"platform": [
+		"win32",
+		"darwin",
+		"linux"
+	],
+	"development": {
+		"main": ""
+	},
+	"pluginSetting": {
+		"single": true,
+		"height": 0
+	},
+	"features": [
+		{
+			"code": "uuid",
+			"explain": "随机唯一值",
+			"icon": "public/logo.png",
+			"platform": [
+				"win32",
+				"darwin",
+				"linux"
+			],
+			"cmds": [
+				"Utools-Vite-Vue",
+				"uvv",
+				"Utools模板",
+				{
+					"type": "img",
+					"label": "图片匹配"
+				}
+			]
+		}
+	]
+}
