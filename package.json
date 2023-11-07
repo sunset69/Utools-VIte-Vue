@@ -22,6 +22,7 @@
   "dependencies": {
     "@vitejs/plugin-legacy": "^4.0.2",
     "terser": "^5.24.0",
+    "utools-api-types": "^4.0.0",
     "vue": "^3.3.8"
   },
   "devDependencies": {
