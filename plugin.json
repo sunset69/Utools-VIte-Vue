@@ -8,7 +8,7 @@
 		"linux"
 	],
 	"development": {
-		"main": ""
+		"main": "http://localhost:5173/"
 	},
 	"pluginSetting": {
 		"single": true,
